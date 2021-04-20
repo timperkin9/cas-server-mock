@@ -1,5 +1,5 @@
 {
-  "name": "cas-server-mock",
+  "name": "cas-mock",
   "version": "3.0.0",
   "description": "Simple mock for Apereo CAS server",
   "keywords": [
